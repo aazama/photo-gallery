@@ -1,0 +1,22 @@
+h1 {
+  font-family: 'Parisienne', cursive;
+  text-shadow: 2px 2px #917FE0;
+  font-size: 350%;
+
+    }
+
+div {
+  background-color: #FFEFE4;
+  margin-right: 100px;
+  margin-left: 100px;
+
+}
+
+img {
+  height:250px;
+  width: 250px;
+  object-fit: cover;
+  margin: 10px;
+}
+
+@media screen and (max-width:640px)
